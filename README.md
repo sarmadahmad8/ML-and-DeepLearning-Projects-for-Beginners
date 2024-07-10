@@ -35,7 +35,8 @@
   6. Repeat
   
   7. Press q on your keyboard to save the Canvas as image
-[https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/AI%20Virtual%20Painter%20and%20Mouse%20using%20Computer%20Vision%20and%20Hand%20Tracking]
+
+  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/AI%20Virtual%20Painter%20and%20Mouse%20using%20Computer%20Vision%20and%20Hand%20Tracking))
 
 # 2. Amazon-Reviews-Sentiment-Analysis-using-NLP-and-DeepLearning
 
@@ -45,11 +46,15 @@
   Decided to give it another try using Huggingface Transformers library and achieved an accuracy of 94%.
   Im pretty sure using ensemble techniques or TTA will give even better results and I aim to test that out when I have the time later.
 
+  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Amazon%20Reviews%20Sentiment%20Analysis%20using%20NLP%20and%20DeepLearning))
+
 # 3.  CAPTCHA-Text-Recognition-using-CRNN-Pytorch
   CAPTCHA Text Recognition using CRNN in Pytorch.
   Built from scratch using mostly pytorch.
   Custom architecture and text encoding and edcoding technique.
   90% accuracy on test set.
+
+  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/CAPTCHA-Text-Recognition-using-CRNN-Pytorch))
 
 # 4. Pets-Classifier-46-classes
 
@@ -61,3 +66,5 @@
   Deployed the model on huggingface spaces using Gradio and Git.
   
   The application can be visited and tested here: https://huggingface.co/spaces/sarmadahmad8/Pets_Classifier
+
+  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/PETS-Classifier-using-DeepLearning))

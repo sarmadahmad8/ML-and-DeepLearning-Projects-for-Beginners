@@ -1,0 +1,11 @@
+INSTALLATION GUIDE
+
+1. Run all programs as administrator
+2. Download python 3.8.10 or below and install (make sure to check add to path)
+3. Go to command window and type:
+	a. pip install mediapipe (will automatically install OpenCV and numpy)
+	b. pip install autopy
+4. Go to preferred IDE (I used VisualStudio) and choose python 3.8.10 as interpreter.
+5. Put all the files in the same folder
+6. Access folder in IDE
+7. Run VirtualPainter.py or AIVirtualMouse.py

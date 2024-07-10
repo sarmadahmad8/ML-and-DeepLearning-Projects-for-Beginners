@@ -35,7 +35,7 @@
   6. Repeat
   
   7. Press q on your keyboard to save the Canvas as image
-
+[https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/AI%20Virtual%20Painter%20and%20Mouse%20using%20Computer%20Vision%20and%20Hand%20Tracking]
 
 # 2. Amazon-Reviews-Sentiment-Analysis-using-NLP-and-DeepLearning
 

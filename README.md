@@ -1,7 +1,7 @@
 # ML-and-DeepLearning-Projects-for-Beginners
 
 
-# 1.  AI-Mouse-Control-using-Computer-Vision-and-Hand-Tracking
+# 1.  AI-Virtual-Painter-and-Mouse-Control-using-Computer-Vision-and-Hand-Tracking
 
   Open INSTALLATION GUIDE.txt to see how to run the program.
   
@@ -19,6 +19,23 @@
   4.Hold only Index finger up again to move mouse and repeat.
   
   5. Press q on your keboard to stop the program.
+
+  PAINTER:
+
+  1. Run program.
+  
+  2. Hold both Index and Middle finger up for tool selection
+  
+  3. Go to the tool area on the webcam feed to select the item.
+  
+  4. Hold only Index finger up to start painting.
+  
+  5. Hold both Index and Middle finger up to select different tool.
+  
+  6. Repeat
+  
+  7. Press q on your keyboard to save the Canvas as image
+
 
 # 2. Amazon-Reviews-Sentiment-Analysis-using-NLP-and-DeepLearning
 

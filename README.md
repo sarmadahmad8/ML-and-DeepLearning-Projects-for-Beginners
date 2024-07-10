@@ -46,7 +46,7 @@
   Decided to give it another try using Huggingface Transformers library and achieved an accuracy of 94%.
   Im pretty sure using ensemble techniques or TTA will give even better results and I aim to test that out when I have the time later.
 
-  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Amazon%20Reviews%20Sentiment%20Analysis%20using%20NLP%20and%20DeepLearning))
+  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Amazon%20Reviews%20Sentiment%20Analysis%20using%20NLP%20and%20DeepLearning)
 
 # 3.  CAPTCHA-Text-Recognition-using-CRNN-Pytorch
   CAPTCHA Text Recognition using CRNN in Pytorch.
@@ -54,7 +54,7 @@
   Custom architecture and text encoding and edcoding technique.
   90% accuracy on test set.
 
-  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/CAPTCHA-Text-Recognition-using-CRNN-Pytorch))
+  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/CAPTCHA-Text-Recognition-using-CRNN-Pytorch)
 
 # 4. Pets-Classifier-46-classes
 
@@ -67,4 +67,4 @@
   
   The application can be visited and tested here: https://huggingface.co/spaces/sarmadahmad8/Pets_Classifier
 
-  find it [here]([url](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/PETS-Classifier-using-DeepLearning))
+  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/PETS-Classifier-using-DeepLearning)

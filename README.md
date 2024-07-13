@@ -10,30 +10,20 @@
   
   Mouse Control:
   
-  1.Hold Index finger up to move mouse around the screen (both hands can be used but not simultaneously).
-  
-  2.hold Both the Index and Middle finger up but spread both fingers away from each other.
-  
-  3.Quickly close both fingers to make a click and then spread them away again.
-  
-  4.Hold only Index finger up again to move mouse and repeat.
-  
+  1. Hold Index finger up to move mouse around the screen (both hands can be used but not simultaneously).
+  2. hold Both the Index and Middle finger up but spread both fingers away from each other.
+  3. Quickly close both fingers to make a click and then spread them away again.
+  4. Hold only Index finger up again to move mouse and repeat.
   5. Press q on your keboard to stop the program.
 
   PAINTER:
 
   1. Run program.
-  
   2. Hold both Index and Middle finger up for tool selection
-  
   3. Go to the tool area on the webcam feed to select the item.
-  
   4. Hold only Index finger up to start painting.
-  
   5. Hold both Index and Middle finger up to select different tool.
-  
   6. Repeat
-  
   7. Press q on your keyboard to save the Canvas as image
 
   Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/AI%20Virtual%20Painter%20and%20Mouse%20using%20Computer%20Vision%20and%20Hand%20Tracking).

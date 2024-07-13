@@ -69,14 +69,14 @@
 
   Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/PETS-Classifier-using-DeepLearning).
 
-# Book Recommender System using Classical Machine Learning Techniques
+# 5.Book Recommender System using Classical Machine Learning Techniques
 
-In this project, we have developed a book recommender system using a combination of five different techniques to enhance recommendation accuracy and provide diverse recommendation strategies. The techniques used are:
-Techniques Used
-1. Decision Trees (DT)
-2. K-Nearest Neighbors (KNN)
-3. Random Forest (RF)
-4. LightGBM
-5. Collaborative Filtering
-
-Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Book-Recommender-System-using-classical-ML-techniques).
+  In this project, we have developed a book recommender system using a combination of five different techniques to enhance recommendation accuracy and provide diverse recommendation strategies. The techniques used are:
+  Techniques Used
+  1. Decision Trees (DT)
+  2. K-Nearest Neighbors (KNN)
+  3. Random Forest (RF)
+  4. LightGBM
+  5. Collaborative Filtering
+  
+  Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Book-Recommender-System-using-classical-ML-techniques).

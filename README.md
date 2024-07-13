@@ -36,7 +36,7 @@
   
   7. Press q on your keyboard to save the Canvas as image
 
-  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/AI%20Virtual%20Painter%20and%20Mouse%20using%20Computer%20Vision%20and%20Hand%20Tracking)
+  Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/AI%20Virtual%20Painter%20and%20Mouse%20using%20Computer%20Vision%20and%20Hand%20Tracking).
 
 # 2. Amazon-Reviews-Sentiment-Analysis-using-NLP-and-DeepLearning
 
@@ -46,7 +46,7 @@
   Decided to give it another try using Huggingface Transformers library and achieved an accuracy of 94%.
   Im pretty sure using ensemble techniques or TTA will give even better results and I aim to test that out when I have the time later.
 
-  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Amazon%20Reviews%20Sentiment%20Analysis%20using%20NLP%20and%20DeepLearning)
+  Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Amazon%20Reviews%20Sentiment%20Analysis%20using%20NLP%20and%20DeepLearning).
 
 # 3.  CAPTCHA-Text-Recognition-using-CRNN-Pytorch
   CAPTCHA Text Recognition using CRNN in Pytorch.
@@ -54,7 +54,7 @@
   Custom architecture and text encoding and edcoding technique.
   90% accuracy on test set.
 
-  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/CAPTCHA-Text-Recognition-using-CRNN-Pytorch)
+  Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/CAPTCHA-Text-Recognition-using-CRNN-Pytorch).
 
 # 4. Pets-Classifier-46-classes
 
@@ -67,4 +67,16 @@
   
   The application can be visited and tested here: https://huggingface.co/spaces/sarmadahmad8/Pets_Classifier
 
-  find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/PETS-Classifier-using-DeepLearning)
+  Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/PETS-Classifier-using-DeepLearning).
+
+# Book Recommender System using Classical Machine Learning Techniques
+
+In this project, we have developed a book recommender system using a combination of five different techniques to enhance recommendation accuracy and provide diverse recommendation strategies. The techniques used are:
+Techniques Used
+1. Decision Trees (DT)
+2. K-Nearest Neighbors (KNN)
+3. Random Forest (RF)
+4. LightGBM
+5. Collaborative Filtering
+
+Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/Book-Recommender-System-using-classical-ML-techniques).

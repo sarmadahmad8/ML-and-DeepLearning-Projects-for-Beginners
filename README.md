@@ -41,7 +41,7 @@
 # 3.  CAPTCHA-Text-Recognition-using-CRNN-Pytorch
   CAPTCHA Text Recognition using CRNN in Pytorch.
   Built from scratch using mostly pytorch.
-  Custom architecture and text encoding and edcoding technique.
+  Custom architecture and text encoding and decoding technique.
   90% accuracy on test set.
 
   Find it [here](https://github.com/sarmadahmad8/ML-and-DeepLearning-Projects-for-Beginners/tree/main/CAPTCHA-Text-Recognition-using-CRNN-Pytorch).
@@ -61,7 +61,7 @@
 
 # 5.Book Recommender System using Classical Machine Learning Techniques
 
-  In this project, we have developed a book recommender system using a combination of five different techniques to enhance recommendation accuracy and provide diverse recommendation strategies. The techniques used are:
+  In this project, I have developed a book recommender system using a combination of five different techniques to enhance recommendation accuracy and provide diverse recommendation strategies. The techniques used are:
   Techniques Used
   1. Decision Trees (DT)
   2. K-Nearest Neighbors (KNN)
